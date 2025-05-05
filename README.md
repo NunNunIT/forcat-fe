@@ -7,7 +7,7 @@ Dự án này là một phần trong học phần "TỐI ƯU HÓA CÔNG CỤ TÌ
 ## Thông tin dự án
 - **Trường**: Trường Đại học Công nghệ Thông tin, ĐHQG-HCM
 - **Khoa**: Khoa học và Kỹ thuật thông tin (KH&KTTT)
-- **Giáo viên hướng dẫn**: ThS. Phan Thanh Vũ
+- **Giáo viên hướng dẫn**: ThS. Võ Ngọc Tân
 - **Nhóm sinh viên thực hiện**: Nhóm 6
 
 ## Danh sách thành viên
@@ -26,6 +26,18 @@ Dự án này là một phần trong học phần "TỐI ƯU HÓA CÔNG CỤ TÌ
 - **Cơ sở dữ liệu**: MongoDB
 - **Triển khai**: Vercel, MongoDB Atlas
 - **Front end**: CSS thuần
+
+● Liên kết đến website Forcatshop: [Website](https://forcat.vercel.app/)
+
+● Liên kết đến Facebook: [Facebook](https://www.facebook.com/forcat.official)
+
+● Liên kết đến Instagram: [Instagram](https://www.instagram.com/forcat_shop/)
+
+● Liên kết đến Tiktok: [Tiktok](https://www.tiktok.com/@forcat.shop7)
+
+● Liên kết đến Youtube: [Youtube](https://www.youtube.com/@ForCatShop)
+
+● Liên kết đến Shopee: [Shopee](https://shopee.vn/shop/1205771662)
 
 ## Kết quả tối ưu công cụ tìm kiếm (SEO): https://www.youtube.com/watch?v=wYgPwpJwRio
 ![Screenshot (6)](https://github.com/user-attachments/assets/1b2d4a11-1f3e-4e1e-abe8-3c161a2200fb)
